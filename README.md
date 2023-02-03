@@ -6,6 +6,6 @@ https://user-images.githubusercontent.com/58683366/215308638-af908e56-1e7c-4853-
 
 
 
-包含：角色动画 UI设计 背包系统 射击系统 配件系统 简单的gameplay实现
+包含：角色动画 UI设计 背包系统 射击系统 配件系统 UMG系统
 
-项目文件下载：https://pan.quark.cn/s/9b056fa4b469
+工程文件：https://pan.quark.cn/s/9b056fa4b469
